@@ -1,0 +1,73 @@
+Name,Description,Price,Stock,Category,RequiresPrescription,Dosage,Packaging
+Dolo,Paracetamol,30,73,Fever & Pain,0,650 mg,Strip of 15
+Dolo,Paracetamol,25,178,Fever & Pain,0,500 mg,Strip of 15
+Crocin,Paracetamol,35,263,Fever & Pain,0,650 mg Advance,Strip of 15
+Crocin,Paracetamol,20,186,Fever & Pain,0,500 mg,Strip of 15
+Calpol,Paracetamol,22,425,Fever & Pain,0,500 mg,Strip of 15
+Calpol,Paracetamol,55,90,Fever & Pain,0,250 mg/5ml,Bottle of 60ml
+Combiflam,Ibuprofen + Paracetamol,40,256,Fever & Pain,0,400 mg,Strip of 20
+Zerodol-SP,Aceclofenac + Serratiopeptidase,110,224,Fever & Pain,1,100 mg,Strip of 10
+Meftal-Spas,Mefenamic Acid,45,439,Stomach Care,1,250 mg,Strip of 10
+Voveran,Diclofenac,90,378,Fever & Pain,1,50 mg,Strip of 15
+Augmentin,Amoxicillin + Clavulanic Acid,200,399,Antibiotics,1,625 mg,Strip of 10
+Augmentin,Amoxicillin + Clavulanic Acid,140,303,Antibiotics,1,375 mg,Strip of 10
+Azithral,Azithromycin,120,189,Antibiotics,1,500 mg,Strip of 5
+Azithral,Azithromycin,115,283,Antibiotics,1,250 mg,Strip of 10
+Taxim-O,Cefixime,150,126,Antibiotics,1,200 mg,Strip of 10
+Zifi,Cefixime,110,26,Antibiotics,1,200 mg,Strip of 10
+Ciprobid,Ciprofloxacin,45,376,Antibiotics,1,500 mg,Strip of 10
+Pantocid,Pantoprazole,130,268,Stomach Care,0,40 mg,Strip of 15
+Pantocid,Pantoprazole,140,70,Stomach Care,0,DSR,Strip of 10
+Pan40,Pantoprazole,140,402,Stomach Care,0,40 mg,Strip of 15
+Omez,Omeprazole,60,23,Stomach Care,0,20 mg,Strip of 20
+Gelusil MPS,Antacid,120,265,Stomach Care,0,Liquid,Bottle of 200ml
+Digene,Antacid,130,105,Stomach Care,0,Liquid,Bottle of 200ml
+Digene,Antacid,25,314,Stomach Care,0,Tablet,Strip of 15
+Eldoper,Loperamide,35,81,Stomach Care,0,2 mg,Strip of 10
+Allegra,Fexofenadine,180,442,Cold & Cough,0,120 mg,Strip of 10
+Allegra,Fexofenadine,220,235,Cold & Cough,0,180 mg,Strip of 10
+Okacet,Cetirizine,20,165,Cold & Cough,0,10 mg,Strip of 10
+Sinarest,Paracetamol + Chlorpheniramine,60,155,Cold & Cough,0,Tablet,Strip of 10
+Benadryl,Diphenhydramine,120,42,Cold & Cough,0,Syrup,Bottle of 150ml
+Corex DX,Dextromethorphan,130,317,Cold & Cough,0,Syrup,Bottle of 100ml
+Telma,Telmisartan,210,312,Heart Health,1,40 mg,Strip of 15
+Telma,Telmisartan,130,396,Heart Health,1,20 mg,Strip of 15
+Amlokind,Amlodipine,25,202,Heart Health,1,5 mg,Strip of 10
+Ecosprin,Aspirin,10,114,Heart Health,1,75 mg,Strip of 14
+Ecosprin,Aspirin,15,290,Heart Health,1,150 mg,Strip of 14
+Atorva,Atorvastatin,60,229,Heart Health,1,10 mg,Strip of 10
+Glycomet,Metformin,25,316,Diabetes Care,1,500 mg,Strip of 10
+Glycomet,Metformin,50,210,Diabetes Care,1,1000 mg,Strip of 10
+Galvus,Vildagliptin,350,349,Diabetes Care,1,50 mg,Strip of 15
+Amaryl,Glimepiride,120,430,Diabetes Care,1,1 mg,Strip of 15
+Supradyn,Multivitamin,55,403,Vitamins & Supplements,0,Tablet,Strip of 15
+Zincovit,Multivitamin + Zinc,100,40,Vitamins & Supplements,0,Tablet,Strip of 15
+Zincovit,Multivitamin + Zinc,140,97,Vitamins & Supplements,0,Syrup,Bottle of 200ml
+Evion,Vitamin E,35,116,Vitamins & Supplements,0,400 mg,Strip of 10
+Shelcal,Calcium + Vitamin D3,120,365,Vitamins & Supplements,0,500 mg,Strip of 15
+Neurobion Forte,Vitamin B Complex,35,349,Vitamins & Supplements,0,Tablet,Strip of 30
+Betnovate-C,Betamethasone + Clioquinol,60,350,Skin Care,1,Cream,Tube of 30g
+Soframycin,Framycetin,55,254,First Aid,0,Cream,Tube of 30g
+Candid,Clotrimazole,120,417,Skin Care,0,Dusting Powder,Bottle of 100g
+Moisturex,Urea Lactic Acid Cream,250,235,Skin Care,0,Cream,Jar of 100g
+Liv.52,Himalaya Ayurvedic Liver Tonic,140,268,Ayurvedic,0,Tablet,Bottle of 100
+Liv.52,Himalaya Ayurvedic Liver Tonic,160,324,Ayurvedic,0,Syrup,Bottle of 200ml
+Septilin,Himalaya Immunity Builder,180,358,Ayurvedic,0,Tablet,Bottle of 60
+Patanjali Giloy Ghanvati,Immunity Booster,100,278,Ayurvedic,0,Tablet,Bottle of 40
+Dabur Chyawanprash,Ayurvedic Health Supplement,350,397,Ayurvedic,0,Paste,Jar of 1kg
+Zandu Balm,Pain Relief,45,148,Ayurvedic,0,Balm,Jar of 25g
+Kesh King,Ayurvedic Hair Oil,150,406,Ayurvedic,0,Oil,Bottle of 100ml
+Dettol Liquid,Antiseptic Disinfectant,60,238,First Aid,0,Liquid,Bottle of 100ml
+Dettol Liquid,Antiseptic Disinfectant,200,102,First Aid,0,Liquid,Bottle of 500ml
+Savlon,Antiseptic Liquid,50,334,First Aid,0,Liquid,Bottle of 100ml
+Band-Aid,Waterproof Washproof,40,52,First Aid,0,Strips,Pack of 20
+Crepe Bandage,Cotton Crepe,180,39,First Aid,0,Roll,1 unit (10cm)
+Pampers,Active Baby Diapers,450,51,Baby Care,0,Large,Pack of 30
+Pampers,Active Baby Diapers,400,304,Baby Care,0,Medium,Pack of 30
+Sebamed,Baby Lotion,450,247,Baby Care,0,Lotion,Bottle of 100ml
+Himalaya Baby Powder,Herbal Baby Powder,80,208,Baby Care,0,Powder,Bottle of 100g
+Cerelac,Wheat Apple Baby Food,280,216,Baby Care,0,Powder,Box of 300g
+Accu-Chek,Active Glucometer,999,213,Healthcare Devices,0,Device,1 Unit + 10 Strips
+Dr Trust,Blood Pressure Monitor,1200,350,Healthcare Devices,0,Device,1 Unit
+Omron Pulse Oximeter,Oxygen Measurement,1500,303,Healthcare Devices,0,Device,1 Unit
+Digital Thermometer,Standard Thermometer,250,208,Healthcare Devices,0,Device,1 Unit
