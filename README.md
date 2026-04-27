@@ -157,13 +157,6 @@ CREATE DATABASE pharma_db;
   <li>🌐 Multi-language Support</li>
 </ul>
 
-<hr>
-
-<h2>👨‍💻 Contributor</h2>
-
-<p><b>Rami Reddy Byredy</b></p>
-
-<hr>
 
 <h2>📌 Project Pitch</h2>
 
